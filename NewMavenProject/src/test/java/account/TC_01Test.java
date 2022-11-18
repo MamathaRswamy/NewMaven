@@ -7,6 +7,6 @@ public class TC_01Test {
 	@Test
 public void demo() {
 	Reporter.log("from account methos",true);
-	System.out.println("done");
+	System.out.println("done  ");
 }
 }
