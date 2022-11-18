@@ -8,5 +8,7 @@ public class TC_01Test {
 public void demo() {
 	Reporter.log("from account methos",true);
 	System.out.println("don   e");
+	Reporter.log("from account methos",true);
+
 }
 }
